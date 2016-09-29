@@ -1,0 +1,404 @@
+n = 1000
+timeSimple: 2.42062
+timeBlock: 1.31296
+timeSwapped: 0.612879
+n = 1001
+timeSimple: 2.85391
+timeBlock: 1.31436
+timeSwapped: 0.735253
+n = 1002
+timeSimple: 2.09091
+timeBlock: 1.3218
+timeSwapped: 0.616621
+n = 1003
+timeSimple: 2.74767
+timeBlock: 1.30391
+timeSwapped: 0.614297
+n = 1004
+timeSimple: 1.57192
+timeBlock: 1.29649
+timeSwapped: 0.615272
+n = 1005
+timeSimple: 2.56974
+timeBlock: 1.28544
+timeSwapped: 0.61534
+n = 1006
+timeSimple: 2.57045
+timeBlock: 1.28454
+timeSwapped: 0.615191
+n = 1007
+timeSimple: 2.58016
+timeBlock: 1.3038
+timeSwapped: 0.619882
+n = 1008
+timeSimple: 1.4739
+timeBlock: 1.30149
+timeSwapped: 0.616671
+n = 1009
+timeSimple: 2.62176
+timeBlock: 1.30293
+timeSwapped: 0.622394
+n = 1010
+timeSimple: 1.94831
+timeBlock: 1.29752
+timeSwapped: 0.629649
+n = 1011
+timeSimple: 2.59753
+timeBlock: 1.29316
+timeSwapped: 0.623014
+n = 1012
+timeSimple: 1.5955
+timeBlock: 1.31518
+timeSwapped: 0.63103
+n = 1013
+timeSimple: 2.57462
+timeBlock: 1.29551
+timeSwapped: 0.631632
+n = 1014
+timeSimple: 2.48794
+timeBlock: 1.32367
+timeSwapped: 0.632296
+n = 1015
+timeSimple: 2.72436
+timeBlock: 1.30435
+timeSwapped: 0.631016
+n = 1016
+timeSimple: 2.65401
+timeBlock: 1.31725
+timeSwapped: 0.63807
+n = 1017
+timeSimple: 2.68986
+timeBlock: 1.30121
+timeSwapped: 0.636416
+n = 1018
+timeSimple: 2.46604
+timeBlock: 1.30222
+timeSwapped: 0.638149
+n = 1019
+timeSimple: 2.64647
+timeBlock: 1.29725
+timeSwapped: 0.640999
+n = 1020
+timeSimple: 1.64687
+timeBlock: 1.32079
+timeSwapped: 0.645268
+n = 1021
+timeSimple: 2.67319
+timeBlock: 1.3056
+timeSwapped: 0.64314
+n = 1022
+timeSimple: 2.62877
+timeBlock: 1.31356
+timeSwapped: 0.65157
+n = 1023
+timeSimple: 2.73192
+timeBlock: 1.325
+timeSwapped: 0.6537
+n = 1024
+timeSimple: 4.92415
+timeBlock: 1.49065
+timeSwapped: 0.655894
+n = 1025
+timeSimple: 2.44825
+timeBlock: 1.31941
+timeSwapped: 0.656549
+n = 1026
+timeSimple: 1.86109
+timeBlock: 1.32839
+timeSwapped: 0.656652
+n = 1027
+timeSimple: 2.23921
+timeBlock: 1.32369
+timeSwapped: 0.653546
+n = 1028
+timeSimple: 2.3031
+timeBlock: 1.32947
+timeSwapped: 0.662286
+n = 1029
+timeSimple: 2.21493
+timeBlock: 1.33909
+timeSwapped: 0.662417
+n = 1030
+timeSimple: 2.46628
+timeBlock: 1.33938
+timeSwapped: 0.663402
+n = 1031
+timeSimple: 2.2379
+timeBlock: 1.34687
+timeSwapped: 0.671258
+n = 1032
+timeSimple: 1.60683
+timeBlock: 1.35685
+timeSwapped: 0.670274
+n = 1033
+timeSimple: 2.63376
+timeBlock: 1.40585
+timeSwapped: 0.672115
+n = 1034
+timeSimple: 1.81734
+timeBlock: 1.36783
+timeSwapped: 0.674171
+n = 1035
+timeSimple: 2.2409
+timeBlock: 1.36956
+timeSwapped: 0.670829
+n = 1036
+timeSimple: 1.62456
+timeBlock: 1.37083
+timeSwapped: 0.674607
+n = 1037
+timeSimple: 2.51682
+timeBlock: 1.3723
+timeSwapped: 0.680564
+n = 1038
+timeSimple: 1.86638
+timeBlock: 1.38721
+timeSwapped: 0.685368
+n = 1039
+timeSimple: 2.28804
+timeBlock: 1.38116
+timeSwapped: 0.680593
+n = 1040
+timeSimple: 1.60124
+timeBlock: 1.39072
+timeSwapped: 0.688912
+n = 1041
+timeSimple: 2.28689
+timeBlock: 1.3879
+timeSwapped: 0.685602
+n = 1042
+timeSimple: 1.5687
+timeBlock: 1.40777
+timeSwapped: 0.692805
+n = 1043
+timeSimple: 2.26956
+timeBlock: 1.39745
+timeSwapped: 0.691103
+n = 1044
+timeSimple: 1.50975
+timeBlock: 1.41871
+timeSwapped: 0.699987
+n = 1045
+timeSimple: 2.33641
+timeBlock: 1.40755
+timeSwapped: 0.6976
+n = 1046
+timeSimple: 1.87804
+timeBlock: 1.41259
+timeSwapped: 0.698093
+n = 1047
+timeSimple: 2.81857
+timeBlock: 1.42059
+timeSwapped: 0.699159
+n = 1048
+timeSimple: 1.96718
+timeBlock: 1.41774
+timeSwapped: 0.702389
+n = 1049
+timeSimple: 1.68856
+timeBlock: 1.42943
+timeSwapped: 0.710307
+n = 1050
+timeSimple: 1.90573
+timeBlock: 1.44
+timeSwapped: 0.703407
+n = 1051
+timeSimple: 2.34693
+timeBlock: 1.42897
+timeSwapped: 0.70221
+n = 1052
+timeSimple: 1.70455
+timeBlock: 1.44267
+timeSwapped: 0.712028
+n = 1053
+timeSimple: 1.70606
+timeBlock: 1.4558
+timeSwapped: 0.719371
+n = 1054
+timeSimple: 1.9496
+timeBlock: 1.44484
+timeSwapped: 0.711157
+n = 1055
+timeSimple: 2.39574
+timeBlock: 1.44931
+timeSwapped: 0.722305
+n = 1056
+timeSimple: 1.71423
+timeBlock: 1.45557
+timeSwapped: 0.714889
+n = 1057
+timeSimple: 2.82209
+timeBlock: 1.45507
+timeSwapped: 0.75685
+n = 1058
+timeSimple: 1.65681
+timeBlock: 1.47723
+timeSwapped: 0.730539
+n = 1059
+timeSimple: 2.44043
+timeBlock: 1.46225
+timeSwapped: 0.73026
+n = 1060
+timeSimple: 1.77313
+timeBlock: 1.47479
+timeSwapped: 0.731559
+n = 1061
+timeSimple: 1.81208
+timeBlock: 1.49583
+timeSwapped: 0.734323
+n = 1062
+timeSimple: 2.01098
+timeBlock: 1.48238
+timeSwapped: 0.72948
+n = 1063
+timeSimple: 1.86983
+timeBlock: 1.50268
+timeSwapped: 0.737163
+n = 1064
+timeSimple: 1.72671
+timeBlock: 1.50067
+timeSwapped: 0.736441
+n = 1065
+timeSimple: 1.881
+timeBlock: 1.50194
+timeSwapped: 0.742347
+n = 1066
+timeSimple: 2.08416
+timeBlock: 1.50572
+timeSwapped: 0.739549
+n = 1067
+timeSimple: 1.9037
+timeBlock: 1.52817
+timeSwapped: 0.748249
+n = 1068
+timeSimple: 1.85103
+timeBlock: 1.50961
+timeSwapped: 0.749463
+n = 1069
+timeSimple: 2.57997
+timeBlock: 1.50486
+timeSwapped: 0.746564
+n = 1070
+timeSimple: 2.06896
+timeBlock: 1.51978
+timeSwapped: 0.752374
+n = 1071
+timeSimple: 2.59925
+timeBlock: 1.51799
+timeSwapped: 0.756943
+n = 1072
+timeSimple: 1.56819
+timeBlock: 1.53463
+timeSwapped: 0.754396
+n = 1073
+timeSimple: 2.63311
+timeBlock: 1.52886
+timeSwapped: 0.76232
+n = 1074
+timeSimple: 2.12474
+timeBlock: 1.54083
+timeSwapped: 0.753935
+n = 1075
+timeSimple: 2.61476
+timeBlock: 1.53415
+timeSwapped: 0.759041
+n = 1076
+timeSimple: 1.87118
+timeBlock: 1.54591
+timeSwapped: 0.764042
+n = 1077
+timeSimple: 2.6554
+timeBlock: 1.55126
+timeSwapped: 0.760679
+n = 1078
+timeSimple: 1.92698
+timeBlock: 1.54294
+timeSwapped: 0.769725
+n = 1079
+timeSimple: 2.65453
+timeBlock: 1.55386
+timeSwapped: 0.767921
+n = 1080
+timeSimple: 1.87896
+timeBlock: 1.57068
+timeSwapped: 0.773343
+n = 1081
+timeSimple: 2.66569
+timeBlock: 1.56413
+timeSwapped: 0.768773
+n = 1082
+timeSimple: 2.34732
+timeBlock: 1.56653
+timeSwapped: 0.776196
+n = 1083
+timeSimple: 2.71185
+timeBlock: 1.57494
+timeSwapped: 0.783369
+n = 1084
+timeSimple: 1.98811
+timeBlock: 1.59155
+timeSwapped: 0.784502
+n = 1085
+timeSimple: 2.8017
+timeBlock: 1.59208
+timeSwapped: 0.780747
+n = 1086
+timeSimple: 2.18078
+timeBlock: 1.59506
+timeSwapped: 0.789864
+n = 1087
+timeSimple: 2.7817
+timeBlock: 1.59014
+timeSwapped: 0.787152
+n = 1088
+timeSimple: 2.4607
+timeBlock: 1.59385
+timeSwapped: 0.795821
+n = 1089
+timeSimple: 2.78052
+timeBlock: 1.60243
+timeSwapped: 0.790477
+n = 1090
+timeSimple: 2.21998
+timeBlock: 1.60601
+timeSwapped: 0.793658
+n = 1091
+timeSimple: 2.80026
+timeBlock: 1.61281
+timeSwapped: 0.795446
+n = 1092
+timeSimple: 2.08346
+timeBlock: 1.63727
+timeSwapped: 0.798208
+n = 1093
+timeSimple: 2.83883
+timeBlock: 1.62717
+timeSwapped: 0.798359
+n = 1094
+timeSimple: 2.03934
+timeBlock: 1.65324
+timeSwapped: 0.809155
+n = 1095
+timeSimple: 2.85727
+timeBlock: 1.63205
+timeSwapped: 0.811277
+n = 1096
+timeSimple: 1.79569
+timeBlock: 1.66231
+timeSwapped: 0.808985
+n = 1097
+timeSimple: 2.87119
+timeBlock: 1.64318
+timeSwapped: 0.814995
+n = 1098
+timeSimple: 2.05205
+timeBlock: 1.65814
+timeSwapped: 0.815772
+n = 1099
+timeSimple: 2.32272
+timeBlock: 1.64964
+timeSwapped: 0.816311
+n = 1100
+timeSimple: 2.08506
+timeBlock: 1.66959
+timeSwapped: 0.814784
